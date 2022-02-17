@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\bin\Debug\netcoreapp3.1\RectangleCode.exe
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\bin\Debug\netcoreapp3.1\RectangleCode.deps.json
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\bin\Debug\netcoreapp3.1\RectangleCode.runtimeconfig.json
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\bin\Debug\netcoreapp3.1\RectangleCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\bin\Debug\netcoreapp3.1\RectangleCode.dll
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\bin\Debug\netcoreapp3.1\RectangleCode.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.dll
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\RectangleCode\obj\Debug\netcoreapp3.1\RectangleCode.genruntimeconfig.cache
