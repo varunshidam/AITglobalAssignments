@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\DriveInfoCode\bin\Debug\netcoreapp3.1\DriveInfoCode.exe
+C:\Users\varun\source\repos\Collection\DriveInfoCode\bin\Debug\netcoreapp3.1\DriveInfoCode.deps.json
+C:\Users\varun\source\repos\Collection\DriveInfoCode\bin\Debug\netcoreapp3.1\DriveInfoCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\DriveInfoCode\bin\Debug\netcoreapp3.1\DriveInfoCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\DriveInfoCode\bin\Debug\netcoreapp3.1\DriveInfoCode.dll
+C:\Users\varun\source\repos\Collection\DriveInfoCode\bin\Debug\netcoreapp3.1\DriveInfoCode.pdb
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.dll
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.pdb
+C:\Users\varun\source\repos\Collection\DriveInfoCode\obj\Debug\netcoreapp3.1\DriveInfoCode.genruntimeconfig.cache
