@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGenericSwap.exe
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGenericSwap.deps.json
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGenericSwap.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGenericSwap.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGenericSwap.dll
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGenericSwap.pdb
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.dll
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.pdb
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGenericSwap.genruntimeconfig.cache

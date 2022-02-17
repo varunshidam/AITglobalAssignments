@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGeneric.exe
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGeneric.deps.json
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGeneric.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGeneric.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGeneric.dll
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\bin\Debug\netcoreapp3.1\UserDemoGeneric.pdb
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.dll
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.pdb
+C:\Users\varun\source\repos\Collection\UserDemoGeneric\obj\Debug\netcoreapp3.1\UserDemoGeneric.genruntimeconfig.cache
