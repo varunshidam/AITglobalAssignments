@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\bin\Debug\netcoreapp3.1\ThreadCommunication.exe
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\bin\Debug\netcoreapp3.1\ThreadCommunication.deps.json
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\bin\Debug\netcoreapp3.1\ThreadCommunication.runtimeconfig.json
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\bin\Debug\netcoreapp3.1\ThreadCommunication.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\bin\Debug\netcoreapp3.1\ThreadCommunication.dll
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\bin\Debug\netcoreapp3.1\ThreadCommunication.pdb
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.AssemblyInfo.cs
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.dll
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.pdb
+C:\Users\varun\source\repos\ThreadProject\ThreadCommunication\obj\Debug\netcoreapp3.1\ThreadCommunication.genruntimeconfig.cache
