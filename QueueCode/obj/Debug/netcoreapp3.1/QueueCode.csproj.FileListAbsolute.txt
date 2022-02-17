@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\QueueCode\bin\Debug\netcoreapp3.1\QueueCode.exe
+C:\Users\varun\source\repos\Collection\QueueCode\bin\Debug\netcoreapp3.1\QueueCode.deps.json
+C:\Users\varun\source\repos\Collection\QueueCode\bin\Debug\netcoreapp3.1\QueueCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\QueueCode\bin\Debug\netcoreapp3.1\QueueCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\QueueCode\bin\Debug\netcoreapp3.1\QueueCode.dll
+C:\Users\varun\source\repos\Collection\QueueCode\bin\Debug\netcoreapp3.1\QueueCode.pdb
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.dll
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.pdb
+C:\Users\varun\source\repos\Collection\QueueCode\obj\Debug\netcoreapp3.1\QueueCode.genruntimeconfig.cache
