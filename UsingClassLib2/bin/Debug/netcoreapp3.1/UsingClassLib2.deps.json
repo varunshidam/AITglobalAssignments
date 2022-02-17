@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsingClassLib2/1.0.0": {
+        "dependencies": {
+          "UsingClassLib": "1.0.0"
+        },
+        "runtime": {
+          "UsingClassLib2.dll": {}
+        }
+      },
+      "AssignmentProject0922/1.0.0": {
+        "runtime": {
+          "AssignmentProject0922.dll": {}
+        }
+      },
+      "UsingClassLib/1.0.0": {
+        "dependencies": {
+          "AssignmentProject0922": "1.0.0"
+        },
+        "runtime": {
+          "UsingClassLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingClassLib2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssignmentProject0922/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UsingClassLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
