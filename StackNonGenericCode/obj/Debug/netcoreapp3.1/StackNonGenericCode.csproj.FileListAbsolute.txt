@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\bin\Debug\netcoreapp3.1\StackNonGenericCode.exe
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\bin\Debug\netcoreapp3.1\StackNonGenericCode.deps.json
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\bin\Debug\netcoreapp3.1\StackNonGenericCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\bin\Debug\netcoreapp3.1\StackNonGenericCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\bin\Debug\netcoreapp3.1\StackNonGenericCode.dll
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\bin\Debug\netcoreapp3.1\StackNonGenericCode.pdb
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.dll
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.pdb
+C:\Users\varun\source\repos\Collection\StackNonGenericCode\obj\Debug\netcoreapp3.1\StackNonGenericCode.genruntimeconfig.cache
