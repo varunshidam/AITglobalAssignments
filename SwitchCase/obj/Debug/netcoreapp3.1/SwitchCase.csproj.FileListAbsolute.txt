@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\varun\source\repos\DemoCsharp\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.genruntimeconfig.cache
