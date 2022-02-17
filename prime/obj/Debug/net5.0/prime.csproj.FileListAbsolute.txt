@@ -1,0 +1,16 @@
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\prime.exe
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\prime.deps.json
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\prime.runtimeconfig.json
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\prime.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\prime.dll
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\ref\prime.dll
+C:\Users\varun\source\repos\ConsoleApp2\prime\bin\Debug\net5.0\prime.pdb
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.AssemblyInfo.cs
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.dll
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\ref\prime.dll
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.pdb
+C:\Users\varun\source\repos\ConsoleApp2\prime\obj\Debug\net5.0\prime.genruntimeconfig.cache
