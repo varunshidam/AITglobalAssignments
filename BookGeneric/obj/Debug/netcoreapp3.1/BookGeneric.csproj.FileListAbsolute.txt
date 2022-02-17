@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\bin\Debug\netcoreapp3.1\BookGeneric.exe
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\bin\Debug\netcoreapp3.1\BookGeneric.deps.json
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\bin\Debug\netcoreapp3.1\BookGeneric.runtimeconfig.json
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\bin\Debug\netcoreapp3.1\BookGeneric.runtimeconfig.dev.json
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\bin\Debug\netcoreapp3.1\BookGeneric.dll
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\bin\Debug\netcoreapp3.1\BookGeneric.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.AssemblyInfo.cs
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.dll
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.genruntimeconfig.cache
+C:\Users\varun\source\repos\AssignmentProject0922\BookGeneric\obj\Debug\netcoreapp3.1\BookGeneric.csproj.AssemblyReference.cache
