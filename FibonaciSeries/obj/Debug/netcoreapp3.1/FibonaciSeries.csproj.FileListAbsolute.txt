@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\bin\Debug\netcoreapp3.1\FibonaciSeries.exe
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\bin\Debug\netcoreapp3.1\FibonaciSeries.deps.json
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\bin\Debug\netcoreapp3.1\FibonaciSeries.runtimeconfig.json
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\bin\Debug\netcoreapp3.1\FibonaciSeries.runtimeconfig.dev.json
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\bin\Debug\netcoreapp3.1\FibonaciSeries.dll
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\bin\Debug\netcoreapp3.1\FibonaciSeries.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.AssemblyInfo.cs
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.dll
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\FibonaciSeries\obj\Debug\netcoreapp3.1\FibonaciSeries.genruntimeconfig.cache
