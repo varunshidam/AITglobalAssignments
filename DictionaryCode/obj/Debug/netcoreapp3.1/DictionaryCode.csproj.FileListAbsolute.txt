@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\DictionaryCode\bin\Debug\netcoreapp3.1\DictionaryCode.exe
+C:\Users\varun\source\repos\Collection\DictionaryCode\bin\Debug\netcoreapp3.1\DictionaryCode.deps.json
+C:\Users\varun\source\repos\Collection\DictionaryCode\bin\Debug\netcoreapp3.1\DictionaryCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\DictionaryCode\bin\Debug\netcoreapp3.1\DictionaryCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\DictionaryCode\bin\Debug\netcoreapp3.1\DictionaryCode.dll
+C:\Users\varun\source\repos\Collection\DictionaryCode\bin\Debug\netcoreapp3.1\DictionaryCode.pdb
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.dll
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.pdb
+C:\Users\varun\source\repos\Collection\DictionaryCode\obj\Debug\netcoreapp3.1\DictionaryCode.genruntimeconfig.cache
