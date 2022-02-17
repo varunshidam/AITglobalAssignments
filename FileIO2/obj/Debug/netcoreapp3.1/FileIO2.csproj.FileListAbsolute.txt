@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\bin\Debug\netcoreapp3.1\FileIO2.exe
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\bin\Debug\netcoreapp3.1\FileIO2.deps.json
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\bin\Debug\netcoreapp3.1\FileIO2.runtimeconfig.json
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\bin\Debug\netcoreapp3.1\FileIO2.runtimeconfig.dev.json
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\bin\Debug\netcoreapp3.1\FileIO2.dll
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\bin\Debug\netcoreapp3.1\FileIO2.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.AssemblyInfo.cs
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.dll
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\FileIO2\obj\Debug\netcoreapp3.1\FileIO2.genruntimeconfig.cache
