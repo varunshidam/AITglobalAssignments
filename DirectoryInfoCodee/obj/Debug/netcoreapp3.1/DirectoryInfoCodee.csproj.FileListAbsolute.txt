@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\bin\Debug\netcoreapp3.1\DirectoryInfoCodee.exe
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\bin\Debug\netcoreapp3.1\DirectoryInfoCodee.deps.json
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\bin\Debug\netcoreapp3.1\DirectoryInfoCodee.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\bin\Debug\netcoreapp3.1\DirectoryInfoCodee.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\bin\Debug\netcoreapp3.1\DirectoryInfoCodee.dll
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\bin\Debug\netcoreapp3.1\DirectoryInfoCodee.pdb
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.dll
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.pdb
+C:\Users\varun\source\repos\Collection\DirectoryInfoCodee\obj\Debug\netcoreapp3.1\DirectoryInfoCodee.genruntimeconfig.cache

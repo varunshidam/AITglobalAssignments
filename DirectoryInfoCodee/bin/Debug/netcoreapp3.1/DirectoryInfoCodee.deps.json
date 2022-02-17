@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DirectoryInfoCodee/1.0.0": {
+        "runtime": {
+          "DirectoryInfoCodee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DirectoryInfoCodee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
