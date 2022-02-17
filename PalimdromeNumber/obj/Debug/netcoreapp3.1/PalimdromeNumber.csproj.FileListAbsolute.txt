@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\bin\Debug\netcoreapp3.1\PalimdromeNumber.exe
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\bin\Debug\netcoreapp3.1\PalimdromeNumber.deps.json
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\bin\Debug\netcoreapp3.1\PalimdromeNumber.runtimeconfig.json
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\bin\Debug\netcoreapp3.1\PalimdromeNumber.runtimeconfig.dev.json
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\bin\Debug\netcoreapp3.1\PalimdromeNumber.dll
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\bin\Debug\netcoreapp3.1\PalimdromeNumber.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.AssemblyInfo.cs
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.dll
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\PalimdromeNumber\obj\Debug\netcoreapp3.1\PalimdromeNumber.genruntimeconfig.cache
