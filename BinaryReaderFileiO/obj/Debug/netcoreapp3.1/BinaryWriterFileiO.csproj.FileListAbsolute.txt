@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\bin\Debug\netcoreapp3.1\BinaryWriterFileiO.exe
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\bin\Debug\netcoreapp3.1\BinaryWriterFileiO.deps.json
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\bin\Debug\netcoreapp3.1\BinaryWriterFileiO.runtimeconfig.json
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\bin\Debug\netcoreapp3.1\BinaryWriterFileiO.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\bin\Debug\netcoreapp3.1\BinaryWriterFileiO.dll
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\bin\Debug\netcoreapp3.1\BinaryWriterFileiO.pdb
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.AssemblyInfo.cs
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.dll
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.pdb
+C:\Users\varun\source\repos\ProjectFileIO\BinaryReaderFileiO\obj\Debug\netcoreapp3.1\BinaryWriterFileiO.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\bin\Debug\netcoreapp3.1\ProjectFileIO.exe
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\bin\Debug\netcoreapp3.1\ProjectFileIO.deps.json
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\bin\Debug\netcoreapp3.1\ProjectFileIO.runtimeconfig.json
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\bin\Debug\netcoreapp3.1\ProjectFileIO.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\bin\Debug\netcoreapp3.1\ProjectFileIO.dll
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\bin\Debug\netcoreapp3.1\ProjectFileIO.pdb
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.AssemblyInfo.cs
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.dll
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.pdb
+C:\Users\varun\source\repos\ProjectFileIO\ProjectFileIO\obj\Debug\netcoreapp3.1\ProjectFileIO.genruntimeconfig.cache
