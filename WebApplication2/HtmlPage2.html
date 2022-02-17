@@ -1,0 +1,206 @@
+﻿<%@ Page Language="vb" AutoEventWireup="false" CodeBehind="LoginForm.aspx.vb" Inherits="WebApplication1.LoginForm" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <!--- <link href="MyStyle.css" rel="stylesheet" />--->
+    <title>My Login Form</title>
+    <script type="text/javascript">function Validate() {
+            var uname = document.f1.username;
+            var pass = document.f1.password;
+            var cpass = document.f1.cpassword;
+            var fname = document.f1.fname
+            var lastname = document.f1.lastname;
+            var dob = document.f1.dob;
+            var email = document.f1.email;
+            var gender = document.f1.gender;
+            var Address = document.f1.Address;
+            var resume = document.f1.resume;
+
+
+            if (uname.value.length <= 0) {
+                alert(" Please Enter the username ");
+                uname.focus();
+                return false;
+
+            }
+
+            if (pass.value.length <= 0) {
+                alert(" Please Enter the Password ");
+                pass.focus();
+                return false;
+
+            }
+            if (cpass.value.length <= 0) {
+                alert(" Please Confirm the password ");
+                cpass.focus();
+                return false;
+
+            }
+            if (fname.value.length  <= 0) {
+                alert(" Please Enter the First name ");
+                fname.focus();
+                return false;
+
+            }
+
+            if (lastname.value.length <= 0) {
+                alert(" Please Enter the Last name ");
+                lastname.focus();
+                return false;
+
+            }
+
+            if (dob.value.length <= 0) {
+                alert(" Please Enter the Date Of Birth ");
+                dob.focus();
+                return false;
+
+            }
+
+            if (email.value.length <= 0) {
+                alert(" Please Enter the Email ");
+                email.focus();
+                return false;
+
+            }
+            if (gender.value.length <= 0) {
+                alert(" Please Select the Gender ");
+                gender.focus();
+                return false;
+
+            }
+
+            if (Address.value <= 0) {
+                alert(" Please Enter the Address ");
+                Address.focus();
+                return false;
+
+            }
+            if (resume.value<= 0) {
+                alert(" Please Upload the resume ");
+                resume.focus();
+                return false;
+
+            }
+
+
+        }</script>
+
+</head>
+
+
+<body>
+    <h1 style="text-align:center">Resigstration Form</h1>
+    <div style="background-image:url('D:\CSProgram/nature.jpg')"></div>
+    <form method="dialog" name="f1" action="" onsubmit="Validate();">
+        <center>
+            <table>
+                <tr>
+                    <td>
+                        Username :
+                    </td>
+                    <td>
+                        <input type="text" name="username" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>Password :</td>
+                    <td><input type="password" name="password" /></td>
+                </tr>
+
+                <tr>
+                    <td>confirm Password :</td>
+                    <td><input type="password" name="cpassword" /></td>
+                </tr>
+
+                <tr>
+                    <td>    First Name :</td>
+                    <td> <input type="text" name="fname " /> </td>
+                </tr>
+
+                <tr>
+                    <td>    Last Name :</td>
+                    <td> <input type="text" name="lastname " /> </td>
+                </tr>
+
+                <tr>
+                    <td>    Date of Birth : </td>
+                    <td> <input type="date" name="dob" /> </td>
+                </tr>
+
+
+                <tr>
+                    <td>   Email : </td>
+                    <td> <input type="email" name="email" /> </td>
+                </tr>
+
+
+                <tr>
+                    <td>   Gender :</td>
+                    <td>
+                        <input type="radio" name="gender">Male
+                        <input type="radio" name="gender">Female
+                </tr>
+
+                <tr>
+                    <td>
+                        Education Qualification :
+                    </td>
+                    <td>
+                        <select>
+                            <option>Select Course</option>
+                            <option>BBACA</option>
+                            <option>B.E/B.Tech</option>
+                            <option>M.E/M.Tech</option>
+                            <option>BCA</option>
+                            <option>MCA</option>
+                            <option>None</option>
+                        </select>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        Address :
+                    </td>
+                    <td>
+                        <textarea row="10" cols="25" name="Address"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Resume :
+                    </td>
+                    <td>
+                        <input type="file" name="resume" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="Submit" value="submit" />
+                        <input type="Reset" value="Reset" />
+
+                    </td>
+                </tr>
+
+            </table>
+        </center>
+    </form>
+</body>
+</html>
+
+<!---<style>
+    {
+        margin:0;
+        padding:0;
+    }
+    .background-image{
+        background-image:url('d://CSProgram/nature.jpg');
+        background-size:cover;
+        background-repeat:no-repeat;
+        height:100vh;
+    }
+</style>--->
