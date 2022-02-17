@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\bin\Debug\netcoreapp3.1\ThreadProject2.exe
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\bin\Debug\netcoreapp3.1\ThreadProject2.deps.json
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\bin\Debug\netcoreapp3.1\ThreadProject2.runtimeconfig.json
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\bin\Debug\netcoreapp3.1\ThreadProject2.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\bin\Debug\netcoreapp3.1\ThreadProject2.dll
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\bin\Debug\netcoreapp3.1\ThreadProject2.pdb
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.AssemblyInfo.cs
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.dll
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.pdb
+C:\Users\varun\source\repos\ThreadProject\ThreadProject2\obj\Debug\netcoreapp3.1\ThreadProject2.genruntimeconfig.cache
