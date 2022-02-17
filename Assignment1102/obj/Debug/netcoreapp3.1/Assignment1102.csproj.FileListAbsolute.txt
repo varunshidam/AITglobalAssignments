@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\bin\Debug\netcoreapp3.1\Assignment1102.exe
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\bin\Debug\netcoreapp3.1\Assignment1102.deps.json
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\bin\Debug\netcoreapp3.1\Assignment1102.runtimeconfig.json
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\bin\Debug\netcoreapp3.1\Assignment1102.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\bin\Debug\netcoreapp3.1\Assignment1102.dll
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\bin\Debug\netcoreapp3.1\Assignment1102.pdb
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.AssemblyInfo.cs
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.dll
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.pdb
+C:\Users\varun\source\repos\Assignment1102\Assignment1102\obj\Debug\netcoreapp3.1\Assignment1102.genruntimeconfig.cache

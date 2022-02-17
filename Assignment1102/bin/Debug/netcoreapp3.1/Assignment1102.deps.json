@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assignment1102/1.0.0": {
+        "runtime": {
+          "Assignment1102.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment1102/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
