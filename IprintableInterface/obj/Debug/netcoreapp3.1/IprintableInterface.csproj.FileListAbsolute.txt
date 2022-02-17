@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\bin\Debug\netcoreapp3.1\IprintableInterface.exe
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\bin\Debug\netcoreapp3.1\IprintableInterface.deps.json
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\bin\Debug\netcoreapp3.1\IprintableInterface.runtimeconfig.json
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\bin\Debug\netcoreapp3.1\IprintableInterface.runtimeconfig.dev.json
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\bin\Debug\netcoreapp3.1\IprintableInterface.dll
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\bin\Debug\netcoreapp3.1\IprintableInterface.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.AssemblyInfo.cs
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.dll
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.pdb
+C:\Users\varun\source\repos\AssignmentProject0922\IprintableInterface\obj\Debug\netcoreapp3.1\IprintableInterface.genruntimeconfig.cache
