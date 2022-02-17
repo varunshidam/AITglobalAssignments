@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\varun\\source\\repos\\Collection\\Student\\Student.csproj",
-      "projectName": "Student",
-      "projectPath": "C:\\Users\\varun\\source\\repos\\Collection\\Student\\Student.csproj",
+      "projectUniqueName": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj",
+      "projectName": "SerializationDemo",
+      "projectPath": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj",
       "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\varun\\source\\repos\\Collection\\Student\\obj\\",
+      "outputPath": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

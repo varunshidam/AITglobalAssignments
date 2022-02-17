@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkTFJROOflQaZjmxw9gNUGTyGkK47f1io0nQ963wIan9+GwfZOcp+wZVpi+sBoYOeXc66T8oD4XwiSwgjl437g==",
+  "dgSpecHash": "hqML3DcWRN79z51Unbu7GpbU4prsrFD4CrQqChPYFMnAmJ0Rb0Qyt6J/SiprhzSfw0uE5W4d3ldaXj2okpsLbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\varun\\source\\repos\\Collection\\Student\\Student.csproj",
+  "projectFilePath": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

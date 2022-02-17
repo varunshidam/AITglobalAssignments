@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\Student.csproj": {}
+    "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\Student.csproj": {
+    "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\Student.csproj",
-        "projectName": "Student",
-        "projectPath": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\Student.csproj",
+        "projectUniqueName": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj",
+        "projectName": "SerializationDemo",
+        "projectPath": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\SerializationDemo.csproj",
         "packagesPath": "C:\\Users\\varun\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\varun\\source\\repos\\Example_Serialization\\Student\\obj\\",
         "projectStyle": "PackageReference",
