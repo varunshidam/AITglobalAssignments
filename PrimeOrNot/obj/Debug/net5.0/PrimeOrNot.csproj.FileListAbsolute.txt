@@ -1,0 +1,16 @@
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\PrimeOrNot.exe
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\PrimeOrNot.deps.json
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\PrimeOrNot.runtimeconfig.json
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\PrimeOrNot.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\PrimeOrNot.dll
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\ref\PrimeOrNot.dll
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\bin\Debug\net5.0\PrimeOrNot.pdb
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.AssemblyInfo.cs
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.dll
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\ref\PrimeOrNot.dll
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.pdb
+C:\Users\varun\source\repos\ConsoleApp2\PrimeOrNot\obj\Debug\net5.0\PrimeOrNot.genruntimeconfig.cache
