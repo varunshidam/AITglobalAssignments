@@ -1,0 +1,14 @@
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.csproj.AssemblyReference.cache
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.AssemblyInfo.cs
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\ThreadProject\priorityExample\bin\Debug\netcoreapp3.1\priorityExample.exe
+C:\Users\varun\source\repos\ThreadProject\priorityExample\bin\Debug\netcoreapp3.1\priorityExample.deps.json
+C:\Users\varun\source\repos\ThreadProject\priorityExample\bin\Debug\netcoreapp3.1\priorityExample.runtimeconfig.json
+C:\Users\varun\source\repos\ThreadProject\priorityExample\bin\Debug\netcoreapp3.1\priorityExample.runtimeconfig.dev.json
+C:\Users\varun\source\repos\ThreadProject\priorityExample\bin\Debug\netcoreapp3.1\priorityExample.dll
+C:\Users\varun\source\repos\ThreadProject\priorityExample\bin\Debug\netcoreapp3.1\priorityExample.pdb
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.dll
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.pdb
+C:\Users\varun\source\repos\ThreadProject\priorityExample\obj\Debug\netcoreapp3.1\priorityExample.genruntimeconfig.cache
