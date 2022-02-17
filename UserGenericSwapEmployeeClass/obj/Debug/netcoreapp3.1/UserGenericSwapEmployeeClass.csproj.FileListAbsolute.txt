@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\bin\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.exe
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\bin\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.deps.json
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\bin\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\bin\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\bin\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.dll
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\bin\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.pdb
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.dll
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.pdb
+C:\Users\varun\source\repos\Collection\UserGenericSwapEmployeeClass\obj\Debug\netcoreapp3.1\UserGenericSwapEmployeeClass.genruntimeconfig.cache
