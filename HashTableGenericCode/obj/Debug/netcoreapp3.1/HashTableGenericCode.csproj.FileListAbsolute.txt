@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\bin\Debug\netcoreapp3.1\HashTableGenericCode.exe
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\bin\Debug\netcoreapp3.1\HashTableGenericCode.deps.json
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\bin\Debug\netcoreapp3.1\HashTableGenericCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\bin\Debug\netcoreapp3.1\HashTableGenericCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\bin\Debug\netcoreapp3.1\HashTableGenericCode.dll
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\bin\Debug\netcoreapp3.1\HashTableGenericCode.pdb
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.dll
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.pdb
+C:\Users\varun\source\repos\Collection\HashTableGenericCode\obj\Debug\netcoreapp3.1\HashTableGenericCode.genruntimeconfig.cache
