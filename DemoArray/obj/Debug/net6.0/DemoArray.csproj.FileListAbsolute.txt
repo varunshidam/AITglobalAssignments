@@ -1,0 +1,15 @@
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.AssemblyInfo.cs
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\DemoArray\DemoArray\bin\Debug\net6.0\DemoArray.exe
+C:\Users\varun\source\repos\DemoArray\DemoArray\bin\Debug\net6.0\DemoArray.deps.json
+C:\Users\varun\source\repos\DemoArray\DemoArray\bin\Debug\net6.0\DemoArray.runtimeconfig.json
+C:\Users\varun\source\repos\DemoArray\DemoArray\bin\Debug\net6.0\DemoArray.dll
+C:\Users\varun\source\repos\DemoArray\DemoArray\bin\Debug\net6.0\ref\DemoArray.dll
+C:\Users\varun\source\repos\DemoArray\DemoArray\bin\Debug\net6.0\DemoArray.pdb
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.dll
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\ref\DemoArray.dll
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.pdb
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.genruntimeconfig.cache
+C:\Users\varun\source\repos\DemoArray\DemoArray\obj\Debug\net6.0\DemoArray.csproj.AssemblyReference.cache
