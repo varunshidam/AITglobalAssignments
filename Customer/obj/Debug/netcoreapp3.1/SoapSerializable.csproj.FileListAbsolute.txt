@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Example_Serialization\Customer\bin\Debug\netcoreapp3.1\SoapSerializable.exe
+C:\Users\varun\source\repos\Example_Serialization\Customer\bin\Debug\netcoreapp3.1\SoapSerializable.deps.json
+C:\Users\varun\source\repos\Example_Serialization\Customer\bin\Debug\netcoreapp3.1\SoapSerializable.runtimeconfig.json
+C:\Users\varun\source\repos\Example_Serialization\Customer\bin\Debug\netcoreapp3.1\SoapSerializable.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Example_Serialization\Customer\bin\Debug\netcoreapp3.1\SoapSerializable.dll
+C:\Users\varun\source\repos\Example_Serialization\Customer\bin\Debug\netcoreapp3.1\SoapSerializable.pdb
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.AssemblyInfo.cs
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.dll
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.pdb
+C:\Users\varun\source\repos\Example_Serialization\Customer\obj\Debug\netcoreapp3.1\SoapSerializable.genruntimeconfig.cache
