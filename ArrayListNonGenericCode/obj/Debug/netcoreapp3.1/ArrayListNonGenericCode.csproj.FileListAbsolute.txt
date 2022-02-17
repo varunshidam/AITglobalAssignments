@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\bin\Debug\netcoreapp3.1\ArrayListNonGenericCode.exe
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\bin\Debug\netcoreapp3.1\ArrayListNonGenericCode.deps.json
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\bin\Debug\netcoreapp3.1\ArrayListNonGenericCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\bin\Debug\netcoreapp3.1\ArrayListNonGenericCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\bin\Debug\netcoreapp3.1\ArrayListNonGenericCode.dll
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\bin\Debug\netcoreapp3.1\ArrayListNonGenericCode.pdb
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.dll
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.pdb
+C:\Users\varun\source\repos\Collection\ArrayListNonGenericCode\obj\Debug\netcoreapp3.1\ArrayListNonGenericCode.genruntimeconfig.cache
