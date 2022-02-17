@@ -1,0 +1,13 @@
+C:\Users\varun\source\repos\Collection\ListGenericCode\bin\Debug\netcoreapp3.1\ListGenericCode.exe
+C:\Users\varun\source\repos\Collection\ListGenericCode\bin\Debug\netcoreapp3.1\ListGenericCode.deps.json
+C:\Users\varun\source\repos\Collection\ListGenericCode\bin\Debug\netcoreapp3.1\ListGenericCode.runtimeconfig.json
+C:\Users\varun\source\repos\Collection\ListGenericCode\bin\Debug\netcoreapp3.1\ListGenericCode.runtimeconfig.dev.json
+C:\Users\varun\source\repos\Collection\ListGenericCode\bin\Debug\netcoreapp3.1\ListGenericCode.dll
+C:\Users\varun\source\repos\Collection\ListGenericCode\bin\Debug\netcoreapp3.1\ListGenericCode.pdb
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.AssemblyInfo.cs
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.dll
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.pdb
+C:\Users\varun\source\repos\Collection\ListGenericCode\obj\Debug\netcoreapp3.1\ListGenericCode.genruntimeconfig.cache
